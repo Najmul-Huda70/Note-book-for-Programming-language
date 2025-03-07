@@ -37,7 +37,12 @@ int32_t main()
     // cout << s << endl;
 
     // assign
-    // s = k;
+    /*
+      assign() first clears the string and then copies the new content.
+       So, calling s.assign("raju");
+       may temporarily erase s before reassigning s= raju .
+    */
+    // s.assign("raju");
     // cout << s << endl;
 
     // all remove erase
@@ -49,7 +54,7 @@ int32_t main()
     // cout << s << endl;
 
     // insert a character
-    s.insert(s.begin() + 2, 'g');
-    cout << s << endl;
+    // s.insert(s.begin() + 2, 'g');
+    // cout << s << endl;
     return 0;
 }
