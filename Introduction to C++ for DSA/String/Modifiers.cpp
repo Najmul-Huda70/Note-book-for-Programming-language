@@ -20,41 +20,41 @@ int32_t main()
     string k;
     cin >> k;
 
-    // append
+    append
 
-    // s.append(k);
-    // cout << s << endl;
+    s.append(k);
+    cout << s << endl;
 
-    // add string
-    //  string ans = s + " " + k;
-    //  cout << ans << endl;
+    add string
+     string ans = s + " " + k;
+     cout << ans << endl;
 
-    // push_back()
-    // s.push_back('@');
-    // cout << s << endl;
+    push_back()
+    s.push_back('@');
+    cout << s << endl;
 
-    // s.pop_back();
-    // cout << s << endl;
+    s.pop_back();
+    cout << s << endl;
 
-    // assign
-    /*
+    assign
+    
       assign() first clears the string and then copies the new content.
        So, calling s.assign("raju");
        may temporarily erase s before reassigning s= raju .
-    */
-    // s.assign("raju");
-    // cout << s << endl;
+    
+    s.assign("raju");
+    cout << s << endl;
 
-    // all remove erase
-    // s.erase();
-    // cout << s << endl;
+    all remove erase
+    s.erase();
+    cout << s << endl;
 
-    // replace
-    // s.replace(s.begin(), s.begin() + k.size(), k);
-    // cout << s << endl;
+    replace
+    s.replace(s.begin(), s.begin() + k.size(), k);
+    cout << s << endl;
 
-    // insert a character
-    // s.insert(s.begin() + 2, 'g');
-    // cout << s << endl;
+    insert a character
+    s.insert(s.begin() + 2, 'g');
+    cout << s << endl;
     return 0;
 }
