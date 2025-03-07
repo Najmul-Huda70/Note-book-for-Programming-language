@@ -1,1 +1,3 @@
 # String
+
+## string built in function : https://docs.google.com/document/d/1MoFcjywdG9vqa6MNfvnave15W4DE0wYpX5uzNsXno6w/edit?usp=sharing
