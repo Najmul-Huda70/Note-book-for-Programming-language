@@ -4,7 +4,8 @@
 
 
 # String Problem : 
-1. https://leetcode.com/problems/zigzag-conversion/description/?envType=problem-list-v2&envId=string
+## 1. zigzag-conversion
+https://leetcode.com/problems/zigzag-conversion/description/?envType=problem-list-v2&envId=string
    ## Zigzag Pattern :
    
 Zigzag Pattern হলো এমন একটি প্যাটার্ন যেখানে অক্ষর বা সংখ্যা গুলোকে এমনভাবে সাজানো হয় যেন তা "Z" আকৃতির হয়। এটি সাধারণত একটি সংখ্যা বা স্ট্রিংকে বিভিন্ন সারিতে সাজিয়ে পড়ে বের করা হয়।
@@ -26,4 +27,8 @@ Zigzag কিভাবে কাজ করে?
 3. এইভাবে দিক পরিবর্তন করতে থাকবো যতক্ষণ না সম্পূর্ণ স্ট্রিং শেষ হয়।
 4. সব Row এর অক্ষর গুলো একসাথে জুড়ে দিলে চূড়ান্ত Zigzag স্ট্রিং পাওয়া যাবে।
 
-   
+## 2. longest-palindromic-substring
+link : https://leetcode.com/problems/longest-palindromic-substring/
+
+## 3. longest-substring-without-repeating-characters
+link : https://leetcode.com/problems/longest-substring-without-repeating-characters/
