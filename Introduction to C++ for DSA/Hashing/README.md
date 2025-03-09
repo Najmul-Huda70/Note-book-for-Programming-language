@@ -8,3 +8,9 @@
 3. হ্যাশিং সম্পর্কে দুর্দান্ত জিনিস হল, আমরা গড়ে O(1) সময়ে তিনটি অপারেশন (সার্চ, ইনসার্ট এবং ডিলিট) অর্জন করতে পারি।
   
 4. হ্যাশিং প্রধানত স্বতন্ত্র আইটেম এবং অভিধান (কী মান জোড়া) একটি সেট বাস্তবায়ন করতে ব্যবহৃত হয়।
+
+1. Hashing is a technique used in data structures that efficiently stores and retrieves data in a way that allows for quick access.
+
+2. Hashing involves mapping data to a specific index in a hash table (an array of items) using a hash function that enables fast retrieval of information based on its key.
+3. The great thing about hashing is, we can achieve all three operations (search, insert and delete) in O(1) time on average.
+4. Hashing is mainly used to implement a set of distinct items and dictionaries (key value pairs).
