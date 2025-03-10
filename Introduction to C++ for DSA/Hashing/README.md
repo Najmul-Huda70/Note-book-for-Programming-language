@@ -24,5 +24,6 @@ There are majorly three components of hashing:
 3. Hash Table: Hash table is typically an array of lists. It stores values corresponding to the keys. Hash stores the data in an associative manner in an array where each data value has its own unique index.
 
 # Problem- 01: 
-##Codeforces Ratings 1100 || Vitaliy and Pie
+## Codeforces Ratings 1100 || Vitaliy and Pie
+
 link : https://codeforces.com/problemset/problem/525/A
