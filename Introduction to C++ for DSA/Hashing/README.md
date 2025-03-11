@@ -25,6 +25,15 @@ There are majorly three components of hashing:
 2. Hash Function: Receives the input key and returns the index of an element in an array called a hash table. The index is known as the hash index .
 3. Hash Table: Hash table is typically an array of lists. It stores values corresponding to the keys. Hash stores the data in an associative manner in an array where each data value has its own unique index.
 
+## Polynomial Rolling Hashing কী?
+Polynomial Rolling Hashing হল একটি জনপ্রিয় হ্যাশ ফাংশন, যা স্ট্রিং-কে একটি হ্যাশ মানে রূপান্তরিত করতে পলিনোমিয়াল ফর্মুলা ব্যবহার করে।
+
+### কোথায় ব্যবহার করা হয়?
+✅ Substring Matching (Rabbin-Karp Algorithm)
+✅ Fast String Comparisons
+✅ String Search (Plagiarism Detection, DNA Sequencing)
+✅ Competitive Programming & Problem Solving
+
 # Problem- 01: 
 ## Codeforces Ratings 1100 || Vitaliy and Pie
 
